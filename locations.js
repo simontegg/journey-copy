@@ -33,7 +33,7 @@ module.exports = [
     kakaNest: false,
     image: 'http://i.imgur.com/2b7zINM.jpg',
     challenge: {
-      text: `One question to make sure you've been paying attention.
+      text: `A question to make sure you've been paying attention.
         What colour are my flowers?`,
       options: [
         'N_white',
@@ -82,7 +82,7 @@ module.exports = [
       text: `When humans arrived, my cousins disappeared… \n
       If you look hard, you might still see _______ footprints \n`,
         options: [
-          'N_taniwha',
+          'N_Taniwha',
           'Y_Moa',
           'N_Tyrannosaurus Rex'
         ],
@@ -200,7 +200,7 @@ module.exports = [
     id: 'pinetree',
     kakaNest: true,
     challenge: {
-      text: "Pine trees grow fast and have pointy needles for capturing sunlight. Which one of these pictures looks most like a pine tree?",
+      text: "Pine trees grow fast and have pointy needles for capturing sunlight. Which one of these looks most like a pine tree?",
       options: [
       'Y_🌳',
       'N_🍀',
